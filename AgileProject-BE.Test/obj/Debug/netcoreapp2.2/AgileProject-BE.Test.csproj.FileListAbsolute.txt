@@ -1,0 +1,17 @@
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\AgileProject-BE.Test.deps.json
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\AgileProject-BE.Test.runtimeconfig.json
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\AgileProject-BE.Test.runtimeconfig.dev.json
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\AgileProject-BE.Test.dll
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\AgileProject-BE.Test.pdb
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\AgileProject-BE.dll
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\bin\Debug\netcoreapp2.2\AgileProject-BE.pdb
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\obj\Debug\netcoreapp2.2\AgileProject-BE.Test.csprojAssemblyReference.cache
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\obj\Debug\netcoreapp2.2\AgileProject-BE.Test.csproj.CoreCompileInputs.cache
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\obj\Debug\netcoreapp2.2\AgileProject-BE.Test.AssemblyInfoInputs.cache
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\obj\Debug\netcoreapp2.2\AgileProject-BE.Test.AssemblyInfo.cs
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\obj\Debug\netcoreapp2.2\AgileProject-BE.Test.csproj.CopyComplete
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\obj\Debug\netcoreapp2.2\AgileProject-BE.Test.dll
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE.Test\obj\Debug\netcoreapp2.2\AgileProject-BE.Test.pdb

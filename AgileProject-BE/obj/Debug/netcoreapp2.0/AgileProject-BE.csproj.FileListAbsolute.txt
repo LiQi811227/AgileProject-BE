@@ -1,0 +1,10 @@
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\bin\Debug\netcoreapp2.0\AgileProject-BE.deps.json
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\bin\Debug\netcoreapp2.0\AgileProject-BE.runtimeconfig.json
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\bin\Debug\netcoreapp2.0\AgileProject-BE.runtimeconfig.dev.json
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\bin\Debug\netcoreapp2.0\AgileProject-BE.dll
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\bin\Debug\netcoreapp2.0\AgileProject-BE.pdb
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.csproj.CoreCompileInputs.cache
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.AssemblyInfoInputs.cache
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.AssemblyInfo.cs
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.dll
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.pdb
