@@ -8,3 +8,4 @@ E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debu
 E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.AssemblyInfo.cs
 E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.dll
 E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.pdb
+E:\study\Unitec\7427\assignment1\source\AgileProject-BE\AgileProject-BE\obj\Debug\netcoreapp2.0\AgileProject-BE.csprojAssemblyReference.cache
