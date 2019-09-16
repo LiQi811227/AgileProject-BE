@@ -20,7 +20,7 @@ namespace AgileProject_BE.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "liqi";
+            return "liqi"; 
         }
 
         // POST api/values
