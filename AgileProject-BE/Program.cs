@@ -21,5 +21,5 @@ namespace AgileProject_BE
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
-    }
+    } 
 }
